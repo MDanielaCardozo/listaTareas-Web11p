@@ -2,9 +2,7 @@
 
 const ItemTareas = () => {
   return (
-    <div>
-      
-    </div>
+    <li className="border-2 border-solid "></li>
   )
 }
 

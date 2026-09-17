@@ -1,10 +1,11 @@
+import ItemTareas from "./ItemTareas"
 
 
 const ListaTareas = () => {
   return (
-    <div>
-      
-    </div>
+    <ul className="border-2 border-solid">
+        <ItemTareas></ItemTareas>
+    </ul>
   )
 }
 
